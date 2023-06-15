@@ -10,6 +10,12 @@
 <body>
     <h1>Remote</h1>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio sit a nesciunt aut labore illum corrupti consequatur temporibus ex cum numquam ipsam optio id, magni illo error enim! Suscipit, ab.</p>
+
+    <ul>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+    </ul>
 </body>
 
 </html>
